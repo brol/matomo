@@ -1,0 +1,105 @@
+# Language: Français
+# Module: piwik - 0.9.1
+# Date: 2017-05-10 11:29:58
+# Translated with translater 2016.08.20
+
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: matomo 0.9.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-05-10T11:29:58+00:00\n"
+"Last-Translator: brol\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: class.dc.matomo.php:24
+msgid "Unable to read Matomo URI."
+msgstr "Impossible de lire l'URI de Matomo."
+
+#: class.dc.matomo.php:88
+msgid "Invalid Matomo Response."
+msgstr "Réponse Matomo invalide."
+
+#: class.dc.matomo.php:99
+msgid "Matomo returned an error: %s"
+msgstr "Matomo a renvoyé une erreur : %s"
+
+#: class.dc.matomo.php:121
+msgid "Invalid Service URI."
+msgstr "URI de service invalide."
+
+#: index.php:13
+msgid "Matomo configuration"
+msgstr "Configuration de Matomo"
+
+#: index.php:56
+msgid "Matomo site does not exist."
+msgstr "Le site Matomo n'existe pas."
+
+#: index.php:75
+msgid "Disable Matomo"
+msgstr "Désactiver Matomo"
+
+#: index.php:91
+msgid "No Matomo sites configured."
+msgstr "Aucun site Matomo configuré."
+
+#: index.php:123
+msgid "Successfully created site."
+msgstr "Site créé avec succès"
+
+#: index.php:128
+msgid "Your Matomo configuration"
+msgstr "Votre configuration Matomo"
+
+#: index.php:129
+msgid "Your Matomo URL:"
+msgstr "Votre URL Matomo :"
+
+#: index.php:131
+msgid "Your Matomo Token:"
+msgstr "Votre token Matomo :"
+
+#: index.php:136
+msgid "Your Matomo installation is not configured yet."
+msgstr "Votre installation de Matomo n'est pas encore configurée."
+
+#: index.php:141
+msgid "Matomo website to track:"
+msgstr "Site Matomo à suivre :"
+
+#: index.php:143
+msgid "Use fancy page names:"
+msgstr "Utiliser des noms de page améliorés :"
+
+#: index.php:145
+msgid "Do not track following IP addresses:"
+msgstr "Ne pas activer le suivi sur les adresses IP suivantes :"
+
+#: index.php:147
+msgid "Your current IP address is: %s"
+msgstr "Votre adresse IP est actuellement : %s"
+
+#: index.php:157
+msgid "View \"%s\" statistics"
+msgstr "Voir les statistiques de \"%s\""
+
+#: index.php:166
+msgid "Create a new Matomo site for this blog"
+msgstr "Créer un nouveau site Matomo pour ce blog"
+
+#: index.php:167
+msgid "Site name:"
+msgstr "Nom du site :"
+
+#: index.php:169
+msgid "Site URL:"
+msgstr "URL du site :"
+
+#: index.php:171
+msgid "Create site"
+msgstr "Créer le site"
+
